@@ -2,7 +2,7 @@
 - 👀 I’m interested in embedded chips.
 - 🌱 I’m currently learning STM32.
 - 💞️ I’m looking to collaborate on those who have the same interest as me!
-- 📫 Welcome to talk about your ideas with me on my emali. -> 2586225191@qq.com
+- 📫 Welcome to talk about your ideas with me on my emali. -> aptx4869aihai@gmail.com
 
 
 <!---
